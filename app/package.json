@@ -10,6 +10,7 @@
   "main": "background.js",
   "dependencies": {
     "fs-jetpack": "^0.9.0",
+    "jstree": "^3.3.2",
     "redux": "^3.6.0"
   }
 }
